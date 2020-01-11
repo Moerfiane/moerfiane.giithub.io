@@ -1,0 +1,28 @@
+body{
+  background-color: #45454d;
+}
+.header img{
+  height: 150px;
+}
+.shell1{
+  background-color: #fff1e9;
+  text-align: center;
+  height: 600px;
+}
+.shell1 h1{
+  color: #ff4893;
+}
+.shell2{
+  background-color: #45454d;
+  text-align: center;
+  height: 600px;
+}
+.shell2 h1{
+  color: #ffd5d5;
+}
+.photo{
+  padding: 1% 15%;
+}
+.photo img{
+  height: 500px;
+}
