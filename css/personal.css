@@ -1,0 +1,27 @@
+body{
+  background-color: #45454d;
+  font-family: Apple Chancery;
+  font-weight: bold;
+}
+.header img{
+  height: 150px;
+}
+a{
+  text-decoration: none;
+  color: #ffd5d5;
+  padding-left:10px;
+  text-align: right;
+  font-size: 2em;
+}
+.shell{
+  text-align: center;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+}
+.shell img{
+    height: 300px;
+}
+.word{
+  grid-column-start: 1;
+  grid-column-end: 3;
+}

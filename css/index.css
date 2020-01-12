@@ -1,5 +1,7 @@
 body{
   background-color: #45454d;
+  font-family: Apple Chancery;
+  font-weight: bold;
 }
 .header img{
   height: 150px;
@@ -30,4 +32,11 @@ body{
   background-color: #45454d;
   color: #ffd5d5;
   text-align: center;
+}
+a{
+  text-decoration: none;
+  color: #ffd5d5;
+  padding-left:10px;
+  text-align: right;
+  font-size: 2em;
 }
