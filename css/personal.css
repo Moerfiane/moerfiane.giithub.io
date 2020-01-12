@@ -1,0 +1,37 @@
+body{
+  background-color: #45454d;
+  font-family: Apple Chancery;
+  font-weight: bold;
+}
+.header img{
+  height: 150px;
+  padding-top: 2%;
+  padding-left: 2%;
+}
+.header{
+  padding-bottom: 2%;
+}
+a{
+  text-decoration: none;
+  color: #ffd5d5;
+  padding-left:10px;
+  text-align: right;
+  font-size: 2em;
+  background-color: #45454d;
+}
+.shell{
+  text-align: center;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  background-color: #fff1e9;
+}
+.shell img{
+    height: 300px;
+}
+.word{
+  grid-column-start: 1;
+  grid-column-end: 3;
+}
+h1{
+    color: #ff4893;
+}
