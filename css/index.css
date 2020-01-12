@@ -26,3 +26,8 @@ body{
 .photo img{
   height: 500px;
 }
+.footer{
+  background-color: #45454d;
+  color: #ffd5d5;
+  text-align: center;
+}
