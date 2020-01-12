@@ -9,7 +9,7 @@ body{
 .shell1{
   background-color: #fff1e9;
   text-align: center;
-  height: 600px;
+  height: 700px;
 }
 .shell1 h1{
   color: #ff4893;
@@ -17,7 +17,7 @@ body{
 .shell2{
   background-color: #45454d;
   text-align: center;
-  height: 600px;
+  height: 700px;
 }
 .shell2 h1{
   color: #ffd5d5;
@@ -39,4 +39,10 @@ a{
   padding-left:10px;
   text-align: right;
   font-size: 2em;
+}
+.shell1 a {
+  text-align: center;
+}
+.shell2 a {
+  text-align: center;
 }
