@@ -5,6 +5,11 @@ body{
 }
 .header img{
   height: 150px;
+  padding-top: 2%;
+  padding-left: 2%;
+}
+.header{
+  padding-bottom: 2%;
 }
 .shell1{
   background-color: #fff1e9;
@@ -35,14 +40,27 @@ body{
 }
 a{
   text-decoration: none;
-  color: #ffd5d5;
+  color: #ff4893;
   padding-left:10px;
   text-align: right;
   font-size: 2em;
 }
 .shell1 a {
   text-align: center;
+  text-decoration: none;
 }
 .shell2 a {
   text-align: center;
+  text-decoration: none;
+}
+.shell3{
+    background-color: #fff1e9;
+    text-align: center;
+    height: 350px;
+  }
+  .shell3 h1{
+    color: #ff4893;
+  }
+.shell3 p{
+  padding-top: 3px;
 }
